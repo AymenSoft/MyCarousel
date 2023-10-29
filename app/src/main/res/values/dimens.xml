@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_high">130dp</dimen>
+    <dimen name="prominent_threshold">72dp</dimen>
+    <dimen name="carousel_spacing">8dp</dimen>
+</resources>
